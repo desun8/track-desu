@@ -1,0 +1,1 @@
+export const COOKIE_API_TOKEN = 'token';
